@@ -1,7 +1,7 @@
 import React from "react";
 
 const UserTable = props => (
-  <table>
+  <table className="striped-table">
     <thead>
       <tr>
         <th>Race</th>
